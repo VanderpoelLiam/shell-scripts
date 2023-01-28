@@ -1,5 +1,5 @@
-# bash-scripts
-A collection of bash scripts.
+# shell-scripts
+A collection of shell scripts.
 
 ## Issues
 ### Sourcing a bash script inside of a zsh shell
